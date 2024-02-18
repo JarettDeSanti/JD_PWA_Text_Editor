@@ -18,7 +18,7 @@ In order to use this PWA Text Editor app, the user must run "npm run start" from
 Github repository URL:  https://github.com/JarettDeSanti/JD_PWA_Text_Editor <br>
 
 
-Deployed live application URL: https://pwa-text-editor-hi3t.onrender.comLinks
+Deployed live application URL: https://pwa-text-editor-hi3t.onrender.com
 
 
 ## Screenshot
